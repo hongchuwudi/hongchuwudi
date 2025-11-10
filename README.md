@@ -104,7 +104,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/💬_WeChat-l6815l-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/🐧_QQ-2772167017-000000?style=for-the-badge&logo=phone&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐧_QQ-2772167017-07C160?style=for-the-badge&logo=phone&logoColor=white" />
 </div>
 
 <br/>

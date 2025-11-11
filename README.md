@@ -91,7 +91,7 @@
     <td width="50%">
       <div align="left" style="background: #fef7ff; padding: 20px; border-radius: 10px;">
         <h4>🎯 Looking For</h4>
-        <p>💼 <b>实习机会</b> - Java后端开发，可实习6个月</p>
+        <p>💼 <b>实习机会</b> - Java后端开发,寻找有价值的机会</p>
         <p>🎯 <b>学习指导</b> - 技术成长路径和最佳实践</p>
         <p>👥 <b>技术交流</b> - 与志同道合的开发者共同进步</p>
         <p>🌟 <b>项目合作</b> - 参与有挑战性的开源项目</p>

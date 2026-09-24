@@ -1,123 +1,98 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello,+I'm+Hongchu;Software+Engineering+Student;Passionate+Tech+Learner;Always+Learning,+Always+Growing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hello,+I'm+Hongchu;Software+Engineering+Student;Passionate+Tech+Learner" />
 
 <br/>
+<br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://bgithub.xyz/hongchuwudi">
-    <img src="https://img.shields.io/badge/GitHub-hongchuwudi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/WeChat-l6815l-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/QQ-2772167017-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<!-- About Me -->
+<!-- About Me Cards -->
 ## About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="left" style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); padding: 24px; border-radius: 12px; border-left: 4px solid #22C55E;">
-        <h4>Education</h4>
-        <p>Third-year Software Engineering Student at XSYU</p>
-        <br/>
-        <h4>Currently Learning</h4>
-        <p>Java / Spring Boot / MySQL / Vue3 / Golang / Distributed Systems</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="left" style="background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%); padding: 24px; border-radius: 12px; border-left: 4px solid #3B82F6;">
-        <h4>Beginner Mindset</h4>
-        <p>Eager to learn, open to guidance, passionate about technology and problem-solving</p>
-        <br/>
-        <h4>Career Goal</h4>
-        <p>Growing into a qualified backend developer with full-stack capabilities</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/graduation-cap.svg" width="16" height="16" /> **Education**  
+A Software Engineering Student at XSYU
 
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="16" height="16" /> **Currently Learning**  
+Java, Spring Boot, MySQL, Vue3, Golang, Distributed Systems
+
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sprout.svg" width="16" height="16" /> **Beginner Mindset**  
+Eager to learn, open to guidance, passionate about technology and problem-solving
+
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg" width="16" height="16" /> **Career Goal**  
+Growing into a qualified backend developer with full-stack capabilities
+
+<br/>
 <br/>
 
 <!-- Tech Stack -->
 ## Tech Stack
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,go" />
+<h3>Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,js,ts,python,c,cpp,cs,php,ruby,rust,kotlin,swift,scala,dart" />
 </p>
-<p><sub>Java OOP / Spring Boot / MyBatis / MySQL Optimization / Redis Caching / Golang Concurrency</sub></p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,js,ts,tailwind,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,flask,django,rails,laravel,dotnet,vue,react,angular,svelte,nextjs,nuxtjs,astro" />
 </p>
-<p><sub>Vue3 / TypeScript / Element Plus / Ant Design / Tailwind CSS / ECharts</sub></p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,nginx,idea,vscode,maven,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=remix,solidjs,jquery,alpinejs" />
 </p>
-<p><sub>Git / Docker / Nginx / Maven / WSL / IDEA / VS Code</sub></p>
+<p align="center"><sub>Java / Golang / JavaScript / TypeScript / Python / C / C++ / C# / PHP / Ruby / Rust / Kotlin / Swift / Scala / Dart / Spring / Node.js / Express / NestJS / FastAPI / Flask / Django / Rails / Laravel / .NET / Vue / React / Angular / Svelte / Next.js / Nuxt / Astro / Remix / SolidJS / jQuery / Alpine.js</sub></p>
 
+<h3>UI, Databases & Messaging</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,less,mysql,postgres,mongodb,redis,sqlite,elasticsearch,firebase,supabase,kafka,rabbitmq" />
+</p>
+<p align="center"><sub>Tailwind / Bootstrap / Material UI / Sass / Less / Vuetify / MySQL / PostgreSQL / MongoDB / Redis / SQLite / Elasticsearch / DynamoDB / Firebase / Supabase / Kafka / RabbitMQ / Redis Streams</sub></p>
+
+<h3>DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,prometheus,grafana,aws,gcp,azure,vercel,netlify,linux" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,redhat,arch,kali,raspberrypi,nginx,apache" />
+</p>
+<p align="center"><sub>Docker / Kubernetes / Terraform / Ansible / Jenkins / GitLab CI / GitHub Actions / Prometheus / Grafana / AWS / GCP / Azure / Cloudflare / Vercel / Netlify / Linux / Ubuntu / Debian / CentOS / Red Hat / Arch / Kali / Raspberry Pi / Nginx / Apache</sub></p>
+
+<h3>Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,idea,vscode,vim,neovim,emacs,sublime,eclipse,androidstudio,webstorm,pycharm,goland" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=phpstorm,postman" />
+</p>
+<p align="center"><sub>Git / GitHub / GitLab / Bitbucket / IntelliJ IDEA / VS Code / Vim / Neovim / Emacs / Sublime / Eclipse / Android Studio / WebStorm / PyCharm / GoLand / PhpStorm / RubyMine / Postman</sub></p>
+
+<h3>Testing & Build</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,webpack,vite,rollup,babel,npm,yarn,pnpm" />
+</p>
+<p align="center"><sub>Jest / Vitest / Cypress / Playwright / JUnit / Webpack / Vite / Rollup / Babel / npm / Yarn / pnpm</sub></p>
+<br/>
 <br/>
 
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-<div align="center">
+<div>
   <a href="https://bgithub.xyz/hongchuwudi">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hongchuwudi&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=22C55E&icon_color=22C55E&text_color=374151&include_all_commits=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=hongchuwudi&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=22C55E&icon_color=22C55E&text_color=374151" />
   </a>
   <a href="https://bgithub.xyz/hongchuwudi">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongchuwudi&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=374151&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://bgithub.xyz/hongchuwudi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongchuwudi&theme=default&hide_border=true&background=00000000&ring=22C55E&fire=3B82F6&currStreakLabel=374151" />
+    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hongchuwudi&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=374151" />
   </a>
 </div>
 
 <br/>
-
-<!-- GitHub Trophies -->
-## Trophies
-
-<div align="center">
-  <a href="https://bgithub.xyz/hongchuwudi">
-    <img src="https://github-profile-trophy.vercel.app/?username=hongchuwudi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</div>
-
 <br/>
 
-<!-- Activity Graph -->
-## Contribution Graph
-
-<div align="center">
-  <a href="https://bgithub.xyz/hongchuwudi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongchuwudi&bg_color=00000000&color=22C55E&line=3B82F6&point=22C55E&area=true&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Connect -->
+<!-- Contact -->
 ## Let's Connect
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <div align="left" style="background: linear-gradient(135deg, #fef7ff 0%, #fae8ff 100%); padding: 24px; border-radius: 12px; border-left: 4px solid #A855F7;">
+    <td width="50%">
+      <div align="left" style="background: #fef7ff; padding: 20px; border-radius: 10px;">
         <h4>As a New Developer</h4>
         <p>Eager to learn from experienced developers and improve technical skills</p>
         <p>Open to guidance and suggestions on code quality and engineering practices</p>
@@ -125,8 +100,8 @@
         <p>Good team player with strong communication skills</p>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <div align="left" style="background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%); padding: 24px; border-radius: 12px; border-left: 4px solid #F97316;">
+    <td width="50%">
+      <div align="left" style="background: #fef7ff; padding: 20px; border-radius: 10px;">
         <h4>Looking For</h4>
         <p><b>Internship</b> — Java backend development opportunities</p>
         <p><b>Mentorship</b> — Technical growth path and best practices</p>
@@ -139,17 +114,22 @@
 
 <br/>
 
-<!-- Footer Quote -->
-<div align="center">
-
-> "Every master was once a beginner. I'm just at the start, but walking with passion."
->
-> "每个大师都曾是新手。我刚刚起步，但带着热情前行。"
+<div>
+  <img src="https://img.shields.io/badge/WeChat-l6815l-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/QQ-2772167017-07C160?style=for-the-badge&logo=phone&logoColor=white" />
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hongchuwudi&label=Profile%20Views&color=22C55E&style=flat-square" />
-<img src="https://img.shields.io/github/followers/hongchuwudi?label=Followers&style=flat-square&color=3B82F6" />
-<img src="https://img.shields.io/github/stars/hongchuwudi?label=Stars&style=flat-square&color=F59E0B" />
+<!-- Footer -->
+<div>
+
+> "Every master was once a beginner. I'm just at the start, but walking with passion."
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hongchuwudi&label=Profile%20Views&color=22C55E&style=flat" />
+
+</div>
 
 </div>

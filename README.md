@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hello,+I'm+Hongchu;Software+Engineering+Student;Passionate+Tech+Learner" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2400&pause=400&color=22C55E&center=true&vCenter=true&width=700&height=80&lines=Hello,+I'm+Hongchu;Software+Engineering+Student;Passionate+Tech+Learner" />
+</p>
 <br/>
 <br/>
 
@@ -11,7 +12,7 @@
 
 <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/graduation-cap.svg" width="16" height="16" /> **Education:** Third-year Software Engineering Student at XSYU. Relevant coursework includes Data Structures, Algorithms, Database Systems, Operating Systems, and Computer Networks. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="16" height="16" /> **Currently Learning:** Java, Spring Boot, MySQL, Vue3, Golang, Distributed Systems. Focusing on building full-stack applications with Spring Boot and Vue3, and exploring Go for high-performance backend services. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code.svg" width="16" height="16" /> **Technical Interests:** Backend development, distributed systems, cloud-native technologies, microservices architecture, database design and optimization. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/users.svg" width="16" height="16" /> **Soft Skills:** Teamwork, communication, problem-solving, fast learner, open to feedback and guidance. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sprout.svg" width="16" height="16" /> **Beginner Mindset:** Eager to learn, open to guidance, passionate about technology and problem-solving. Actively seeking internship opportunities to apply knowledge in real-world projects.
 
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/star.svg" width="16" height="16" /> **Project: Hongc-LabelHub**  
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/star.svg" width="16" height="16" /> **ByteDance Excellence Award Project: Hongc-LabelHub**  
 <a href="https://github.com/hongchuwudi/Hongc-LabelHub">Hongc-LabelHub</a> — A web-based data annotation platform covering the full lifecycle from data production to AI pre-review, human review, and multi-format export. Supports batch dataset import, drag-and-drop Schema designer, multiple distribution strategies, and AI pre-review via Agent pool. Built with FastAPI, MySQL, Redis, RabbitMQ, React 19 + TypeScript + Vite + Ant Design.  
 **Honor: Excellence Award in ByteDance AI Full-Stack Challenge** — Organized by ByteDance for university students, focusing on real-world business problems, independently completing end-to-end development and online delivery of the application.
 <br/>
@@ -82,47 +83,18 @@
 <!-- Contact -->
 ## Let's Connect
 
-<table>
-  <tr>
-    <td width="50%">
-      <div align="left" style="background: #fef7ff; padding: 20px; border-radius: 10px;">
-        <h4>As a New Developer</h4>
-        <p>Eager to learn from experienced developers and improve technical skills</p>
-        <p>Open to guidance and suggestions on code quality and engineering practices</p>
-        <p>Passionate about programming and enjoy solving complex problems</p>
-        <p>Good team player with strong communication skills</p>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="left" style="background: #fef7ff; padding: 20px; border-radius: 10px;">
-        <h4>Looking For</h4>
-        <p><b>Internship</b> — Java backend development opportunities</p>
-        <p><b>Mentorship</b> — Technical growth path and best practices</p>
-        <p><b>Tech Exchange</b> — Progress with like-minded developers</p>
-        <p><b>Collaboration</b> — Challenging open-source projects</p>
-      </div>
-    </td>
-  </tr>
-</table>
+**As a New Developer**  
+Eager to learn from experienced developers and improve technical skills. Open to guidance and suggestions on code quality and engineering practices. Passionate about programming and enjoy solving complex problems. Good team player with strong communication skills.
+
+**Looking For**  
+**Internship** — Java backend development opportunities · **Mentorship** — Technical growth path and best practices · **Tech Exchange** — Progress with like-minded developers · **Collaboration** — Challenging open-source projects
 
 <br/>
 
-<div>
-  <img src="https://img.shields.io/badge/WeChat-l6815l-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/QQ-2772167017-07C160?style=for-the-badge&logo=phone&logoColor=white" />
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/WeChat-l6815l-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+<img src="https://img.shields.io/badge/QQ-2772167017-07C160?style=for-the-badge&logo=phone&logoColor=white" />
 
 <!-- Footer -->
-<div>
-
 > "Every master was once a beginner. I'm just at the start, but walking with passion."
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=hongchuwudi&label=Profile%20Views&color=22C55E&style=flat" />
-
-</div>
-
-</div>

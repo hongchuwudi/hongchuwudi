@@ -9,18 +9,11 @@
 <!-- About Me Cards -->
 ## About Me
 
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/graduation-cap.svg" width="16" height="16" /> **Education**  
-A Software Engineering Student at XSYU
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/graduation-cap.svg" width="16" height="16" /> **Education:** Third-year Software Engineering Student at XSYU. Relevant coursework includes Data Structures, Algorithms, Database Systems, Operating Systems, and Computer Networks. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="16" height="16" /> **Currently Learning:** Java, Spring Boot, MySQL, Vue3, Golang, Distributed Systems. Focusing on building full-stack applications with Spring Boot and Vue3, and exploring Go for high-performance backend services. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code.svg" width="16" height="16" /> **Technical Interests:** Backend development, distributed systems, cloud-native technologies, microservices architecture, database design and optimization. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/users.svg" width="16" height="16" /> **Soft Skills:** Teamwork, communication, problem-solving, fast learner, open to feedback and guidance. <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sprout.svg" width="16" height="16" /> **Beginner Mindset:** Eager to learn, open to guidance, passionate about technology and problem-solving. Actively seeking internship opportunities to apply knowledge in real-world projects.
 
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/book-open.svg" width="16" height="16" /> **Currently Learning**  
-Java, Spring Boot, MySQL, Vue3, Golang, Distributed Systems
-
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sprout.svg" width="16" height="16" /> **Beginner Mindset**  
-Eager to learn, open to guidance, passionate about technology and problem-solving
-
-<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg" width="16" height="16" /> **Career Goal**  
-Growing into a qualified backend developer with full-stack capabilities
-
+<img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/star.svg" width="16" height="16" /> **Project: Hongc-LabelHub**  
+<a href="https://github.com/hongchuwudi/Hongc-LabelHub">Hongc-LabelHub</a> — A web-based data annotation platform covering the full lifecycle of "data production → AI pre-review → human review → multi-format export". Supports batch dataset import (JSON/JSONL/CSV/Excel), a drag-and-drop Schema designer for building annotation forms, three distribution strategies (first-come / quota grab / assigned), asynchronous pre-review via AI Agent pool, dual-perspective review (re-review and final review), and asynchronous export in multiple formats (JSON/JSONL/CSV/Excel). Backend built with FastAPI + SQLAlchemy 2.0 + MySQL + Redis + RabbitMQ. AI pre-review uses a thread pool with long-lived Agent instances, outputting structured scores via Function Calling. Order grabbing uses Redis SETNX distributed locks for concurrency control. A three-level state machine (Task → Item → Result) manages transitions. Frontend built with React 19 + TypeScript + Vite + Ant Design 6 + Formily. Schema designer and workbench rendering share the same JSON Schema renderer.  
+**Honor: Excellence Award in ByteDance AI Full-Stack Challenge** — Organized by ByteDance for university students, focusing on real-world business problems, independently completing end-to-end development and online delivery of the application.
 <br/>
 <br/>
 
